@@ -23,3 +23,20 @@ This repository contains various game projects developed by Teogor.
 [Spacero](https://games.teogor.dev/spacero) is a retro-inspired space shooter that rekindles the thrills of classic arcade gaming. Blast through the cosmos, engage in intense space battles, and experience the exhilaration of retro arcade action with a modern twist.
 
 Each of these games is a testament to the creativity and dedication of UON Projects, showcasing the power of Unity to create engaging and immersive gaming experiences.
+
+# License
+```xml
+  Designed and developed by 2023 teogor (Teodor Grigor)
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+```
