@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://games.teogor.dev/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://games.teogor.dev/index.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://games.teogor.dev/data/games.json</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Images  -->
+  <image:image>
+    <image:loc>https://games.teogor.dev/src/images/jarnsmior-cover.jpg</image:loc>
+    <image:caption>
+      Jarnsmior - A smith game where players forge and enhance weapons based on NPC requests.
+    </image:caption>
+  </image:image>
+  
+  <image:image>
+    <image:loc>https://games.teogor.dev/src/images/scaro-cover.jpg</image:loc>
+    <image:caption>
+      Scaro - Engage in intense maze battles and unravel a dystopian mystery in this thrilling FPS adventure.
+    </image:caption>
+  </image:image>
+  
+  <image:image>
+    <image:loc>https://games.teogor.dev/src/images/glidero-cover.jpg</image:loc>
+    <image:caption>
+      Glidero - Glide through the sky and experience the freedom of flight in Glider, an immersive and captivating flying game.
+    </image:caption>
+  </image:image>
+  
+  <image:image>
+    <image:loc>https://games.teogor.dev/src/images/descent-cover.jpg</image:loc>
+    <image:caption>
+      Descent - Embark on a mind-bending adventure and escape the enigmatic depths of a mysterious cave in this immersive puzzle-solving game.
+    </image:caption>
+  </image:image>
+  
+  <image:image>
+    <image:loc>https://games.teogor.dev/src/images/spacero-cover.jpg</image:loc>
+    <image:caption>
+      Spacero - Relive the thrills of classic arcade gaming with an exhilarating blast-through-the-cosmos adventure in this retro-inspired space shooter.
+    </image:caption>
+  </image:image>
+
+</urlset>
