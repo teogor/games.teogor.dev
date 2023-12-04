@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Jarnsmior",
+    "description": "A smith game where players forge and enhance weapons based on NPC requests.",
+    "tools": [
+      "Unity"
+    ],
+    "cover": "src/images/jarnsmior-cover.jpg",
+    "repo": "jarnsmior",
+    "owner": "uon-projects"
+  },
+  {
+    "title": "Scaro",
+    "description": "Engage in intense maze battles and unravel a dystopian mystery in this thrilling FPS adventure.",
+    "tools": [
+      "Unity"
+    ],
+    "cover": "src/images/scaro-cover.jpg",
+    "repo": "scaro",
+    "owner": "uon-projects"
+  },
+  {
+    "title": "Glidero",
+    "description": "Glide through the sky and experience the freedom of flight in Glider, an immersive and captivating flying game.",
+    "tools": [
+      "Unity"
+    ],
+    "cover": "src/images/glidero-cover.jpg",
+    "repo": "glidero",
+    "owner": "uon-projects"
+  },
+  {
+    "title": "Descent",
+    "description": "Embark on a mind-bending adventure and escape the enigmatic depths of a mysterious cave in this immersive puzzle-solving game.",
+    "tools": [
+      "Unity"
+    ],
+    "cover": "src/images/descent-cover.jpg",
+    "repo": "descent",
+    "owner": "uon-projects"
+  },
+  {
+    "title": "Spacero",
+    "description": "Relive the thrills of classic arcade gaming with an exhilarating blast-through-the-cosmos adventure in this retro-inspired space shooter.",
+    "tools": [
+      "Unity"
+    ],
+    "cover": "src/images/spacero-cover.jpg",
+    "repo": "spacero",
+    "owner": "uon-projects"
+  }
+]
